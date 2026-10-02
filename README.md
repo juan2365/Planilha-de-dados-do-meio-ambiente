@@ -1,4 +1,4 @@
-Dados Abertos Meio Ambiente estado de São Paulo - Juan
+Dados Abertos Meio Ambiente  - Juan
 
 * Utilização de Dashbords 
   
