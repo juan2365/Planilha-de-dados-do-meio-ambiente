@@ -1,6 +1,6 @@
 Dados Abertos Meio Ambiente estado de São Paulo - Juan
 
-* Utilização de Dashbords
+* Utilização de Dashbords 
   
 * Dados analisados por Gráficos
 
