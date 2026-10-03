@@ -6,11 +6,6 @@ Este painel do Power BI apresenta o número total de empresas multimodais existe
 
 
 
-
-
-
-
-
 INTRODUÇÃO AO POWER BI - ATIVIDADE ANÁLISE DE DADOS ABERTOS -  JUAN
 
 Esta planilha apresenta informações sobre empresas multimodais registradas e relacionadas ao transporte de cargas no Brasil, com base em dados disponibilizados pela Agência Nacional de Transportes Terrestres (ANTT).
