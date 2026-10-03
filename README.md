@@ -1,3 +1,15 @@
+Número totais de empresas multimodais existente na base de dados: 
+
+Este painel do Power BI apresenta o número total de empresas multimodais existentes na base de dados, permitindo visualizar de forma clara e dinâmica a quantidade de empresas cadastradas. A ferramenta facilita a consulta, o acompanhamento e a análise das informações, possibilitando uma visão geral do universo de empresas multimodais registrado na base de dados.
+
+<img width="1309" height="711" alt="image" src="https://github.com/user-attachments/assets/11734f1d-a412-46ae-968a-2b9fcdc4b756" />
+
+
+
+
+
+
+
 
 INTRODUÇÃO AO POWER BI - ATIVIDADE ANÁLISE DE DADOS ABERTOS -  JUAN
 
