@@ -82,9 +82,13 @@ O objetivo da planilha é facilitar a análise das condições ambientais do pa�
 
 
 
-Apresentação Pessoal 
+
+
+Apresentação Pessoal - JUan Victor
+
 
 Apresentação pessoal mostrando os meus hoobies, músicas preferidas e o poque eu entrei na Fatec para cursar Gestão da Produção 
+
 
 <img width="1373" height="767" alt="image" src="https://github.com/user-attachments/assets/81af9bba-5e54-467b-a762-22c0d3398f49" />
 
