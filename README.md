@@ -1,5 +1,11 @@
 
 INTRODUÇÃO AO POWER BI - ATIVIDADE ANÁLISE DE DADOS ABERTOS -  JUAN
+
+Esta planilha apresenta informações sobre empresas multimodais registradas e relacionadas ao transporte de cargas no Brasil, com base em dados disponibilizados pela Agência Nacional de Transportes Terrestres (ANTT).
+
+Os dados permitem identificar empresas que atuam na integração de diferentes modalidades de transporte, como rodoviário e ferroviário, facilitando a análise, consulta e acompanhamento das empresas que participam do transporte multimodal de cargas.
+
+
  FERRAMENTAS USADAS
 
 - USO DE FÓRMULA DAX
