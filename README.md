@@ -38,6 +38,8 @@ https://github.com/juan2365/Planilha-de-dados-do-meio-ambiente/blob/main/README.
 
 * Quantidade de empresas com a data vigente por ano
 
+  Esta planilha apresenta a quantidade de empresas com data vigente, organizada por ano. Os dados permitem acompanhar a evolução do número de empresas ativas ou com registros vigentes ao longo do período analisado, facilitando a comparação entre os anos e a identificação de variações e tendências.
+
 
 https://github.com/juan2365/Fonte-de-Dados-/blob/main/operador_transporte_multimodal.xlsx%20feito.xlsx
 <img width="1060" height="516" alt="image" src="https://github.com/user-attachments/assets/f1eef8b6-e31b-4d33-a8e0-b822ea572662" />
