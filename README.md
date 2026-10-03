@@ -18,4 +18,26 @@ INTRODUÇÃO AO POWER BI - ATIVIDADE ANÁLISE DE DADOS ABERTOS -  JUAN
 <img width="1366" height="779" alt="image" src="https://github.com/user-attachments/assets/a69d0f9b-a2f0-4a8b-8604-0c6815178fca" />
 
 
+# Fonte-de-informa-o-e-banco-de-dados-   Juan
+Atividades desenvolvida do 1 Semestre na faculdade Fatec SJC
+-https://github.com/juan2365/Fonte-de-informa-o-e-banco-de-dados-/blob/main/planilha%20juan.pbix
+
+## Analises de dados abertos por meio de dashbord
+-
+Foram coletados dados relativos a empresas multimodais presentes no site da ANTT. Para a construção do dashbord. foram usadas linguagem DAX e construção de vizualizações
+-
+-
+Análises feitas:
+1) Quantas OTM'S existem em cada
+   <img width="650" height="441" alt="image" src="https://github.com/user-attachments/assets/cd0ff5c2-f46e-4571-a2a8-351164ce4870" />
+-
+-
+Interagindo com o mapa foi observado que a cidade Manaus(87) possui mais empresas certificadas que São José dos Campos (4)
+por dedução analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade
+-
+-
+Analisando Dashbords de Danos Ambientais :
+https://github.com/juan2365/Planilha-de-dados-do-meio-ambiente/blob/main/README.md
+
+
 
