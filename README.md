@@ -58,8 +58,6 @@ Esta planilha apresenta dados relacionados ao meio ambiente no Brasil, reunindo 
 
 O objetivo da planilha é facilitar a análise das condições ambientais do país e contribuir para estudos, pesquisas e atividades relacionadas à preservação do meio ambiente e ao desenvolvimento sustentável.
 
-* Quantidade de empresas com a data vigente por ano
-
 * Utilização de Dashbords 
   
 * Dados analisados por Gráficos
