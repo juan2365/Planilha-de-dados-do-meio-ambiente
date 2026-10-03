@@ -16,7 +16,7 @@ Atividades desenvolvida do 1 Semestre na faculdade Fatec SJC
 -https://github.com/juan2365/Fonte-de-informa-o-e-banco-de-dados-/blob/main/planilha%20juan.pbix
 
 ## Analises de dados abertos por meio de dashbord
--
+
 Foram coletados dados relativos a empresas multimodais presentes no site da ANTT. Para a construção do dashbord. foram usadas linguagem DAX e construção de vizualizações
 
 
