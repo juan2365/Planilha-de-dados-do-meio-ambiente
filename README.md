@@ -53,7 +53,8 @@ Analisando Dashbords de Danos Ambientais :
 https://github.com/juan2365/Planilha-de-dados-do-meio-ambiente/blob/main/README.md
 
 
-## Planilha multimodal - Juan
+Dados Abertos Meio Ambiente  - Juan
+
 Esta planilha apresenta dados relacionados ao meio ambiente no Brasil, reunindo informações sobre temas como desmatamento, áreas de preservação, recursos hídricos, biodiversidade, emissões de gases de efeito estufa, queimadas e geração de resíduos. Os dados podem ser organizados por estado, região e período, permitindo comparar diferentes áreas e identificar mudanças e tendências ambientais ao longo do tempo.
 
 O objetivo da planilha é facilitar a análise das condições ambientais do país e contribuir para estudos, pesquisas e atividades relacionadas à preservação do meio ambiente e ao desenvolvimento sustentável.
