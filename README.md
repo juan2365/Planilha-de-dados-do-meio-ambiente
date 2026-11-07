@@ -92,6 +92,11 @@ Apresentação pessoal mostrando os meus hoobies, músicas preferidas e o poque 
 
 <img width="1373" height="767" alt="image" src="https://github.com/user-attachments/assets/81af9bba-5e54-467b-a762-22c0d3398f49" />
 
+Atividade sobre regressão linear 
+
+<img width="1188" height="437" alt="image" src="https://github.com/user-attachments/assets/06115e2c-abd3-4950-b9bf-f71157543114" />
+
+
 
 
 
