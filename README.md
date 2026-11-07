@@ -3,6 +3,7 @@ Atividade sobre regressão linear
 <img width="1188" height="437" alt="image" src="https://github.com/user-attachments/assets/06115e2c-abd3-4950-b9bf-f71157543114" />
 
 
+
 Número totais de empresas multimodais existente na base de dados: 
 
 Este painel do Power BI apresenta o número total de empresas multimodais existentes na base de dados, permitindo visualizar de forma clara e dinâmica a quantidade de empresas cadastradas. A ferramenta facilita a consulta, o acompanhamento e a análise das informações, possibilitando uma visão geral do universo de empresas multimodais registrado na base de dados.
