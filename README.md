@@ -1,3 +1,34 @@
+
+
+
+
+Modelo e dados sobre o arquivo Nacionalidade 
+
+
+
+<img width="830" height="646" alt="image" src="https://github.com/user-attachments/assets/1a68b4f8-8043-4848-a308-295737954abf" />
+
+
+
+
+
+
+O conjunto de dados Investimentos captados, quantos setores econômicos  estão envolvidos 
+
+
+<img width="554" height="306" alt="image" src="https://github.com/user-attachments/assets/4b45e03f-0b6e-472b-a23a-284eee2c7f4f" />
+
+
+
+
+
+Total de investimentos captados para o município de Jacareí, de 2012 até setembro 2026
+
+<img width="555" height="519" alt="image" src="https://github.com/user-attachments/assets/ac78f6a8-89bf-4abf-8c35-b9583f6bb5d7" />
+
+
+
+
 Atividade sobre regressão linear 
 
 <img width="1188" height="437" alt="image" src="https://github.com/user-attachments/assets/06115e2c-abd3-4950-b9bf-f71157543114" />
