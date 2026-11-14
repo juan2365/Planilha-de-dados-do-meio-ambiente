@@ -1,3 +1,11 @@
+Dashboard – Investimentos Captados no Estado de São Paulo (Piesp/Seade, 2012–2026)
+
+<img width="1880" height="745" alt="image" src="https://github.com/user-attachments/assets/2ec0533c-49f0-4c36-800b-19436b016091" />
+
+
+
+<img width="1876" height="544" alt="image" src="https://github.com/user-attachments/assets/792f123d-a537-4627-9862-61a65b4e8aaa" />
+
 
 
 
