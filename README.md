@@ -1,4 +1,35 @@
-Dashboard – Investimentos Captados no Estado de São Paulo (Piesp/Seade, 2012–2026)
+# Em 2020, o saldo de movimentação foi negativo no meio do ano e se recuperou no segundo semestre, com nova queda em dezembro. O mapa indica que os dados abrangem o estado todo, com mais registros nas regiões mais populosas.
+
+
+<img width="823" height="272" alt="image" src="https://github.com/user-attachments/assets/4df95da1-5c96-43cd-a362-e8543bc71053" />
+
+
+# Com recursos do Tesouro, o orçamento liquidado no primeiro trimestre se concentra em Saúde e Educação, e as outras secretarias têm participação pequena.
+
+<img width="835" height="272" alt="image" src="https://github.com/user-attachments/assets/58002b4d-9075-47cd-bb62-360386cf1633" />
+
+
+
+
+
+
+
+
+
+# Os dados indicam que o bacharelado concentra a maior parte das matrículas e que há mais mulheres do que homens matriculados.
+
+<img width="828" height="318" alt="image" src="https://github.com/user-attachments/assets/7c2370b9-4b87-4ae2-8125-a44feeed8faa" />
+
+
+
+
+
+
+
+
+
+
+# Dashboard – Investimentos Captados no Estado de São Paulo (Piesp/Seade, 2012–2026)
 
 <img width="1880" height="745" alt="image" src="https://github.com/user-attachments/assets/2ec0533c-49f0-4c36-800b-19436b016091" />
 
@@ -10,8 +41,9 @@ Dashboard – Investimentos Captados no Estado de São Paulo (Piesp/Seade, 2012�
 
 
 
-Modelo e dados sobre o arquivo Nacionalidade 
+# Modelo e dados sobre o arquivo Nacionalidade 
 
+Apresentar o modelo de dados e a descrição dos dados do arquivo "Nacionalidade", que funciona como tabela dimensão com links de imagens (bandeiras) e se relaciona em 1 para muitos (1:N) com a tabela fato de matrículas, permitindo analisar o número de matrículas por nacionalidade, grau acadêmico e sexo no Power BI.
 
 
 <img width="830" height="646" alt="image" src="https://github.com/user-attachments/assets/1a68b4f8-8043-4848-a308-295737954abf" />
@@ -21,8 +53,9 @@ Modelo e dados sobre o arquivo Nacionalidade
 
 
 
-O conjunto de dados Investimentos captados, quantos setores econômicos  estão envolvidos 
+# O conjunto de dados Investimentos captados, quantos setores econômicos  estão envolvidos 
 
+Analisar o conjunto de dados "Investimentos captados" para identificar quantos setores econômicos distintos estão envolvidos, quais são esses setores e qual a participação de cada um no valor total investido, apresentando o resultado em visualizações no Power BI.
 
 <img width="554" height="306" alt="image" src="https://github.com/user-attachments/assets/4b45e03f-0b6e-472b-a23a-284eee2c7f4f" />
 
@@ -30,14 +63,19 @@ O conjunto de dados Investimentos captados, quantos setores econômicos  estão 
 
 
 
-Total de investimentos captados para o município de Jacareí, de 2012 até setembro 2026
+# Total de investimentos captados para o município de Jacareí, de 2012 até setembro 2026
+
+Apresentar o valor total de investimentos captados pelo município de Jacareí (SP) no período de janeiro de 2012 a setembro de 2026, com a evolução ao longo dos anos e a distribuição por setor econômico, em visualizações no Power BI.
 
 <img width="555" height="519" alt="image" src="https://github.com/user-attachments/assets/ac78f6a8-89bf-4abf-8c35-b9583f6bb5d7" />
 
 
 
 
-Atividade sobre regressão linear 
+# Atividade sobre regressão linear 
+
+Atividade prática sobre regressão linear, na qual se analisa a relação entre horas de estudo (variável x) e nota da prova (variável y) a partir de dados abertos, construindo um gráfico de dispersão no Excel e um modelo no Google Colab (Python), para comparar os resultados e responder se mais horas de estudo estão associadas a notas maiores.
+
 
 <img width="1188" height="437" alt="image" src="https://github.com/user-attachments/assets/06115e2c-abd3-4950-b9bf-f71157543114" />
 
